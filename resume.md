@@ -19,7 +19,7 @@ Email: [nickheminsley@hotmail.co.uk](mailto:nickheminsley@hotmail.co.uk)
 - Coordinated between multiple teams to ensure aligned technical vision and seamless integration across APIs and shared services
 - Produced architecture diagrams, managed planning and delivery across over 30 tickets, and orchestrated phased deployment of beta and final releases
   
-## Senior Software Engineer <time> Aug 2023 – Present </time>
+### Senior Software Engineer <time> Aug 2023 – Present </time>
 
 - Led major cross-team technical integrations, driving decisions and mediating between multiple stakeholders
 - Designed, architected, and delivered scalable frontend and backend features across multiple services
